@@ -3,7 +3,7 @@
 <!--
 **sameermdr11/sameermdr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Snake gif] (https://github.com/sameermdr11/sameermdr11/blob/main/output/github-contribution-grid-snake.gif)
+![Snake gif](https://github.com/sameermdr11/sameermdr11/blob/main/output/github-contribution-grid-snake.gif)
 
 Here are some ideas to get you started:
 
